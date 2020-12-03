@@ -1,0 +1,5 @@
+Hanzel von Patient 70 170 50.0
+Annelies NULL Stapels 54 163 80.0
+Hakim de Aart 74 150 70.0
+Felicia NULL Flex 37 172 60.0
+Beppie NULL Bork 21 169 55.0
